@@ -1,6 +1,6 @@
 huh- 👋 Hi, I’m @subeksharma.
 - 👀 I’m interested in Exploring and Trying New things.
-- 🌱 I’m currently learning Reactjs,Nextjs,Javascrit,Nodejs.
+- 🌱 I’m currently gaining knowledge in Machine Learning.
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
