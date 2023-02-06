@@ -1,10 +1,14 @@
 <h1 align='center'>
 👋 Hi, I’m @subeksharma.
 </h1>
+
 <p align='center'>
    👀 I’m interested in Exploring and Trying New things.
    🌱 I’m currently gaining knowledge in Machine Learning.
 </p>
+
+
+<h2/>
 
 
 
