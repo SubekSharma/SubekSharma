@@ -1,11 +1,14 @@
-huh- 👋 Hi, I’m @subeksharma.
+<p align='center'>
+ huh- 👋 Hi, I’m @subeksharma.
 - 👀 I’m interested in Exploring and Trying New things.
 - 🌱 I’m currently gaining knowledge in Machine Learning.
 
+ </p>
+ 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
  <!--Figma-->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -32,19 +35,19 @@ huh- 👋 Hi, I’m @subeksharma.
 
 </p>
 
-<p align="center">
+<p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subeksharma&show_icons=true&theme=dark&locale=en&layout=compact" alt="subeksharma" />
 </p>
 
-<p align="center">
+<p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=subeksharma&show_icons=true&theme=dark&locale=en" alt="subeksharma" />
 </p>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subeksharma&theme=dark&locale=en" alt="subeksharma" />
 </p>
 
-<p alight="center">
+<p alight="right">
 <img align="right" src="https://komarev.com/ghpvc/?username=subeksharma&style=plastic&color=blue" />
 </p>
 
