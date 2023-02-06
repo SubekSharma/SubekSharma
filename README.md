@@ -36,7 +36,7 @@ huh- 👋 Hi, I’m @subeksharma.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subeksharma&show_icons=true&theme=dark&locale=en&layout=compact" alt="subeksharma" />
 </p>
 
-<p align="left">
+<p align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=subeksharma&show_icons=true&theme=dark&locale=en" alt="subeksharma" />
 </p>
 
