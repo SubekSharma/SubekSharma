@@ -1,6 +1,8 @@
-huh- 👋 Hi, I’m @subeksharma.
-- 👀 I’m interested in Exploring and Trying New things.
-- 🌱 I’m currently gaining knowledge in Machine Learning.
+<h1>
+ huh- 👋 Hi, I’m @subeksharma.
+ - 👀 I’m interested in Exploring and Trying New things.
+ - 🌱 I’m currently gaining knowledge in Machine Learning.
+</h1>
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools I'm Familier With :</h3>
