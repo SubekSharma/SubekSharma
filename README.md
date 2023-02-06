@@ -2,8 +2,8 @@
 👋 Hi, I’m @subeksharma.
 </h1>
 <p align='center'>
-  - 👀 I’m interested in Exploring and Trying New things.<br>
-  - 🌱 I’m currently gaining knowledge in Machine Learning.
+   👀 I’m interested in Exploring and Trying New things.<br>
+   🌱 I’m currently gaining knowledge in Machine Learning.
 </p>
 
 
