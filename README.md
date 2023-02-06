@@ -32,19 +32,19 @@ huh- 👋 Hi, I’m @subeksharma.
 
 </p>
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subeksharma&show_icons=true&theme=dark&locale=en&layout=compact" alt="subeksharma" />
 </p>
 
-<p align="right">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=subeksharma&show_icons=true&theme=dark&locale=en" alt="subeksharma" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subeksharma&theme=dark&locale=en" alt="subeksharma" />
 </p>
 
-<p alight="right">
+<p alight="center">
 <img align="right" src="https://komarev.com/ghpvc/?username=subeksharma&style=plastic&color=blue" />
 </p>
 
