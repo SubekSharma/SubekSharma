@@ -1,5 +1,5 @@
 <h1 align='center'>
- huh- 👋 Hi, I’m @subeksharma.
+👋 Hi, I’m @subeksharma.
 </h1>
 <p align='center'>
   - 👀 I’m interested in Exploring and Trying New things.<br>
