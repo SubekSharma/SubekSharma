@@ -1,8 +1,13 @@
-<h1>
+<h1 align='center'>
  huh- 👋 Hi, I’m @subeksharma.
- - 👀 I’m interested in Exploring and Trying New things.
- - 🌱 I’m currently gaining knowledge in Machine Learning.
 </h1>
+<p align='center'>
+  - 👀 I’m interested in Exploring and Trying New things.<br>
+  - 🌱 I’m currently gaining knowledge in Machine Learning.
+</p>
+
+
+
 
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools I'm Familier With :</h3>
