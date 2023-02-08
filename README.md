@@ -14,7 +14,7 @@
 
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools I'm Familier With :</h3>
+<h3 align="center">Languages and Tools I'm Familiar With :</h3>
 
 <p align="center">
  <!--Figma-->
