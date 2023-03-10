@@ -3,8 +3,8 @@ Hello 👋, This is Subek Sharma.
 </h1>
 
 <p align='center'>
-   👀 I’m interested in Exploring and Trying New things.
-   🌱 I’m currently gaining knowledge in Machine Learning.
+    I’m interested in Exploring and Trying New things. 
+    I’m currently gaining knowledge in Machine Learning. :)
 </p>
 
 
