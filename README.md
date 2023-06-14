@@ -37,6 +37,14 @@ Hello 👋, This is Subek Sharma.
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+
+  </a>
+   <!--Pandas-->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/pandas-dev/pandas/master/web/pandas/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/>
+  </a>
+
+    
    <!--MySQL-->
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
