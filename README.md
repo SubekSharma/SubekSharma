@@ -7,13 +7,12 @@ Hello 👋, This is Er. Subek Sharma.
     I’m currently working on academic papers, and if you want to work together, hit me up. :)
 </p>
 
+<h2 align='center'>Publications</h2>
 
-<h2/>
+<p align='center'>
+    <b>Subek Sharma</b>, Sisir Dhakal, <i>"Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?"</i>, (Submitted to arXiv).
+</p>
 
-
-
-
-<!-- Languages and Tools -->
 <h3 align="center">Languages and Tools I'm Familiar With :</h3>
 
 <p align="center">
@@ -74,11 +73,7 @@ Hello 👋, This is Er. Subek Sharma.
 
 <hr>
 
-<p alight="center">
+<p align="center">
 <img align="right" src="https://komarev.com/ghpvc/?username=subeksharma&style=plastic&color=blue" />
 </p>
 
-<!---
-subeksharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
