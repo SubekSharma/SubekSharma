@@ -9,6 +9,8 @@ Hello 👋, This is Er. Subek Sharma.
 
 <h2 align='center'>Publications</h2>
 
+Subek Sharma, Sisir Dhakal, "Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?", (Submitted to arXiv).
+
 <p align='center'>
     <b>Subek Sharma</b>, Sisir Dhakal, <i>"Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?"</i>, (Submitted to arXiv).
 </p>
