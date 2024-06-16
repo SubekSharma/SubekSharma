@@ -1,10 +1,10 @@
 <h1 align='center'>
-Hello 👋, This is Subek Sharma.
+Hello 👋, This is Er. Subek Sharma.
 </h1>
 
 <p align='center'>
-    I’m interested in Exploring and Trying New things. 
-    I’m currently gaining knowledge in Machine Learning. :)
+    I’m interested in Deep Learning, Computer vision, Medical Informatics, and their applications in the real world. 
+    I’m currently working on academic papers, and if you want to work together, hit me up. :)
 </p>
 
 
