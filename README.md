@@ -10,7 +10,7 @@ Hello 👋, This is Er. Subek Sharma.
 <h2 align='center'>Publications</h2>
 
 <p align='center'>
-    <b>Subek Sharma</b>, Sisir Dhakal, <i>"Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?"</i>, (In review).
+    <b>Subek Sharma</b>, Sisir Dhakal, Mansi Bhavsar <i>"Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?"</i>, (In review).[[insert link here](https://www.academia.edu/121953366/Evaluating_Transfer_Learning_in_Deep_Learning_Models_for_Classification_on_a_Custom_Wildlife_Dataset_Can_YOLOv8_Surpass_Other_Architectures)]
 </p>
 
 <h3 align="center">Languages and Tools I'm Familiar With :</h3>
