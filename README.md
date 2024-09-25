@@ -12,11 +12,7 @@ Hello 👋, This is Er. Subek Sharma.
 <p align='center'>
     ### Publications
 
-**Subek Sharma**, Sisir Dhakal, Mansi Bhavsar  
-*["Evaluating Transfer Learning in Deep Learning Models for Classification on a Custom Wildlife Dataset: Can YOLOv8 Surpass Other Architectures?"](https://arxiv.org/abs/2408.00002)*, (In review).
 
-**Subek Sharma**, Rupesh Ghimire, Samir Gurung, Sandesh GC  
-*["GANTAVYA: A Landmark Recognition System"](https://www.researchgate.net/profile/Subek-Sharma/publication/379047797_Gantavya_-_A_Landmark_Recognition_System/links/65f8854b286738732d5cdb0d/Gantavya-A-Landmark-Recognition-System.pdf)*, (2024).
 
 </p>
 
